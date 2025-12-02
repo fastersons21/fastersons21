@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**fastersons21/fastersons21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 Hey there
@@ -15,4 +11,8 @@ Tools & Tech
 A Bit About Me
 - Karate for 20 years
 - I like building things that are simple, useful, and easy to understand
+<!--
+**fastersons21/fastersons21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 -->
