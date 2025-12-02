@@ -5,9 +5,13 @@ I mostly work on QA testing stuff - iOS App, Android App .
 
 This is a fresh profile where I'll be uploading some smaller projects, experiments, and things I'm currently working on. Everything here is built from scratch, no copy/paste templates.
 
+------
+
 Tools & Tech
 - Swift (XCUI test)
 - Kotlin (Compose UI test)
+
+------
 
 A Bit About Me
 - Karate for 20 years
