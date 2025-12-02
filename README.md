@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm hayden, a software QA engineer based in Japan.
 
-I mostly work on QA testing stuff - iOS App, Android App .
+I mostly work on QA testing stuff - iOS App, Android App
 
 This is a fresh profile where I'll be uploading some smaller projects, experiments, and things I'm currently working on. Everything here is built from scratch, no copy/paste templates.
 
