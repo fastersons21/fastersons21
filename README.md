@@ -7,13 +7,13 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
 
 ------
 
-Tools & Tech
+## Tools & Tech
 - Swift (XCUI test)
 - Kotlin (Compose UI test)
 
 ------
 
-A Bit About Me
+## A Bit About Me
 - Karate for 20 years
 - I like building things that are simple, useful, and easy to understand
 <!--
